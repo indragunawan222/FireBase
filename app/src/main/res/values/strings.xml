@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CRUDFirebase</string>
+    <string name="app_name">MyFireBase</string>
     <array name="genres">
         <item>Rock</item>
         <item>Sufi</item>
